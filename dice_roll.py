@@ -8,4 +8,5 @@ def greet():
      dice = int(input("Hello friends, how many dice? "))
      for j in range(1):
         roll(dice)
+        
 greet()
